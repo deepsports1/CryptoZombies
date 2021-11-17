@@ -1,0 +1,27 @@
+{
+  "name": "cryptozombies",
+  "version": "1.0.0",
+  "description": "Crypto Zombies tutorial",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepsports1/CryptoZombies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepsports1/CryptoZombies/issues"
+  },
+  "homepage": "https://github.com/deepsports1/CryptoZombies#readme"
+}
